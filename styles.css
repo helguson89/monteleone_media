@@ -1,0 +1,69 @@
+/* Fonts */
+/*
+font-family: 'Acme', sans-serif;
+font-family: 'Permanent Marker', cursive;
+
+*/
+/* Colors */
+/*
+yellow: #F9ED69;
+orange: #F08A5D;
+Maroon: #B83B5E;
+Purple: #6a2c70;
+*/
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.button-container {
+  padding: 5%;
+}
+
+#btn {
+  height: 30px;
+}
+
+
+/* Main elements */
+body {
+  background-color: #F9ED69;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #B83B5E;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Acme', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #F08A5D;
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  font-size: 2rem;
+  color: #B83B5E;
+  font-family: 'Permanent Marker', cursive;
+}
+
+footer {
+  margin-top: 5%;
+  color: #6a2c70;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
